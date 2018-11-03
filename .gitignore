@@ -3,3 +3,4 @@
 env/
 temperatures/
 .DS_Store
+data/.ipynb_checkpoints/
