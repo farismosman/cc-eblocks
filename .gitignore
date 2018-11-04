@@ -1,6 +1,5 @@
 *_raw_data/
 *.pdf
 env/
-temperatures/
 .DS_Store
 data/.ipynb_checkpoints/
